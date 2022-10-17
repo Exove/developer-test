@@ -38,6 +38,12 @@ Have its value stored in state
 Have it fire an event with the value
 Have it fire the event only when the user has stopped moving it
 
+### 1D. Create a module in Drupal
+
+Create a module for Drupal that shows the contents of an RSS feed. The module must create a configuration value for the URL of the RSS feed. The module must create a route (/link-list) and show the link and the title of the RSS feed in the route.
+
+You don't have to style the page.
+
 ## Section 2
 
 ### 2A. Create a comic book reader/image browser or a carousel with React. Continued in question 3B. Use images from this document or your own.
@@ -80,6 +86,11 @@ Create a single SQL query that will produce the following:
 +---------------------+----------------------------------+
 ```
 
+### 2C.
+
+Search for mistakes task
+
+
 ## Section 3
 
 ### 3A. Write code that gets data from a product API (URL) and saves it into an SQL database locally. For extra points note the following:
@@ -101,10 +112,16 @@ Use state to toggle dark mode
  
 Examples of non-directional graphs:
 
-Fig 1. A graph with a cycle                                 Fig 2. A graph without a cycle
+Fig 1. A graph with a cycle
 
+![A non-directional graph with a cycle](/material/non-directional-graph-cycle.png)
+
+Fig 2. A graph without a cycle
+
+![A non-directional graph without a cycle](/material/non-directional-graph.png)
 
 ### 3D. Write the HTML and CSS for the simplified layout underneath. Omit visual styling such as fonts and color and focus on the layout. Note that you can also omit writing the filler text into HTML. Also note that there might be more than three items present.
 
 Make sure that one row has three columns if the window size exceeds 960 pixels and two if less. The extra item should drop to the next row.
 
+![A mockup of a news site with columns of text](/material/news-site.png)
