@@ -17,7 +17,9 @@ Do the test yourself, don’t ask for help from outsiders. If you have questions
 The test is designed to take approximately 2 hours to complete. After you have finished, return the tasks by creating a Github repository and send us the link to it.
 
 ## Section 1
-### 1A. Write a sorting algorithm that sorts strings based on the ASCII code of the third letter first, then second letter and then the first letter.
+### 1A. Write a sorting algorithm
+
+Write a sorting algorithm that sorts strings based on the ASCII code of the third letter first, then second letter and then the first letter.
 
 Here’s a list of words you can test with:
 - BOAT
@@ -46,9 +48,13 @@ You don't have to style the page.
 
 ## Section 2
 
-### 2A. Create a comic book reader/image browser or a carousel with React. Continued in question 3B. Use images from this document or your own.
+### 2A. Create a comic book reader/image browser or a carousel
 
-### 2B. You have an SQL database with two tables, people and phones.
+Create a comic book reader/image browser or a carousel with React. Continued in question 3B. Use images from this document or your own.
+
+### 2B. Create an SQL query
+
+You have an SQL database with two tables, people and phones.
 
 ```mysql> select * from people;
 +----+------------+-------------+
@@ -92,7 +98,9 @@ Search for at least 10 accessibility, validity and style errors in [this HTML](m
 
 ## Section 3
 
-### 3A. Write code that gets data from a product API ([URL](material/products.json)) and saves it into an SQL database locally. For extra points note the following:
+### 3A. Get data and save it locally
+
+Write code that gets data from a product API ([URL](material/products.json)) and saves it into an SQL database locally. For extra points note the following:
 - Figure a way to save the hierarchical data (see product variations and categories for example)
 - Figure a way to handle schemaless data (variations)
 - Take into account that the database schema should support translations although the API doesn’t, use ISO 639-1 as language keys
@@ -107,8 +115,10 @@ Search for at least 10 accessibility, validity and style errors in [this HTML](m
 - Use state to toggle dark mode
 
 
-### 3C. Write a program that counts the number of nodes in a non-directional graph and finds out whether there is a cycle in the graph.
- 
+### 3C. Write a non-directional graph program
+
+Write a program that counts the number of nodes in a non-directional graph and finds out whether there is a cycle in the graph
+
 Examples of non-directional graphs:
 
 Fig 1. A graph with a cycle
@@ -119,7 +129,9 @@ Fig 2. A graph without a cycle
 
 ![A non-directional graph without a cycle](/material/non-directional-graph.png)
 
-### 3D. Write the HTML and CSS for the simplified layout underneath. Omit visual styling such as fonts and color and focus on the layout. Note that you can also omit writing the filler text into HTML. Also note that there might be more than three items present.
+### 3D. Write HTML and CSS for a provided layout 
+
+Write the HTML and CSS for the simplified layout underneath. Also note that there might be more than three items present.
 
 Make sure that one row has three columns if the window size exceeds 960 pixels and two if less. The extra item should drop to the next row.
 
