@@ -94,18 +94,18 @@ Search for mistakes task
 ## Section 3
 
 ### 3A. Write code that gets data from a product API (URL) and saves it into an SQL database locally. For extra points note the following:
-Figure a way to save the hierarchical data (see product variations and categories for example)
-Figure a way to handle schemaless data (variations)
-Take into account that the database schema should support translations although the API doesn’t, use ISO 639-1 as language keys
-Add support for extra currencies
-How to update the product data from the API without re-saving everything but only parts that have changed
-Also note that not every object have IDs
+- Figure a way to save the hierarchical data (see product variations and categories for example)
+- Figure a way to handle schemaless data (variations)
+- Take into account that the database schema should support translations although the API doesn’t, use ISO 639-1 as language keys
+- Add support for extra currencies
+- How to update the product data from the API without re-saving everything but only parts that have changed
+- Also note that not every object have IDs
 
 ### 3B. Continued from 2A, do two of the following:
-Separate elements into components
-Browse multiple comics/images from the top level
-With Typescript correctly type the code
-Use state to toggle dark mode
+- Separate elements into components
+- Browse multiple comics/images from the top level
+- With Typescript correctly type the code
+- Use state to toggle dark mode
 
 
 ### 3C. Write a program that counts the number of nodes in a non-directional graph and finds out whether there is a cycle in the graph.
