@@ -14,7 +14,7 @@ Do the back-end tasks with Javascript or PHP, Drupal tasks in PHP and front-end 
 
 Do the test yourself, don’t ask for help from outsiders. If you have questions about the test, contact Exove at coding-test-help@exove.com
 
-The test is designed to take approximately 2 hours to complete. After you have finished, return the tasks by creating a Github repository and send us the link to it.
+After you have finished, return the tasks by creating a Github repository and send us the link to it.
 
 ## Section 1
 ### 1A. Write a sorting algorithm
