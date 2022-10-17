@@ -86,14 +86,13 @@ Create a single SQL query that will produce the following:
 +---------------------+----------------------------------+
 ```
 
-### 2C.
+### 2C. Search for errors in the HTML
 
-Search for mistakes task
-
+Search for at least 10 accessibility, validity and style errors in [this HTML](material/code.html) and fix them to the HTML. Return the whole fixed HTML.
 
 ## Section 3
 
-### 3A. Write code that gets data from a product API (URL) and saves it into an SQL database locally. For extra points note the following:
+### 3A. Write code that gets data from a product API ([URL](material/products.json)) and saves it into an SQL database locally. For extra points note the following:
 - Figure a way to save the hierarchical data (see product variations and categories for example)
 - Figure a way to handle schemaless data (variations)
 - Take into account that the database schema should support translations although the API doesn’t, use ISO 639-1 as language keys
