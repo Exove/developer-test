@@ -56,7 +56,8 @@ Create a comic book reader/image browser or a carousel with React. Continued in 
 
 You have an SQL database with two tables, people and phones.
 
-```mysql> select * from people;
+```
+mysql> select * from people;
 +----+------------+-------------+
 | id | first_name | last_name   |
 +----+------------+-------------+
