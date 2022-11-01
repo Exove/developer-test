@@ -31,14 +31,14 @@ Here’s a list of words you can test with:
 - Submarine
 
 ### 1B. Create a loading animation using css
-Add options to choose between size (large, small)
-Add options to choose between 2 colors
-Add options to modify speed (fast, slow)
+- Add options to choose between size (large, small)
+- Add options to choose between 2 colors
+- Add options to modify speed (fast, slow)
 
 ### 1C. Create a slider in react
-Have its value stored in state
-Have it fire an event with the value
-Have it fire the event only when the user has stopped moving it
+- Have its value stored in state
+- Have it fire an event with the value
+- Have it fire the event only when the user has stopped moving it
 
 ### 1D. Create a module in Drupal
 
