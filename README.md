@@ -50,7 +50,7 @@ You don't have to style the page.
 
 ### 2A. Create a comic book reader/image browser or a carousel
 
-Create a comic book reader/image browser or a carousel with React. Continued in question 3B. Use images from this document or your own.
+Create a comic book reader/image browser or a carousel with React. Use images from this document or your own. Continued in question 3B. Using TypeScript is recommended.
 
 ### 2B. Create an SQL query
 
@@ -112,7 +112,7 @@ Write code that gets data from a product API ([URL](material/products.json)) and
 ### 3B. Continued from 2A, do two of the following:
 - Separate elements into components
 - Browse multiple comics/images from the top level
-- With Typescript correctly type the code
+- If you chose to use Typescript, correctly type the code
 - Use state to toggle dark mode
 
 
