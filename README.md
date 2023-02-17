@@ -12,9 +12,11 @@ You need to answer at least one question per section in order to pass the test. 
 
 **Practicalities**
 
-Do the back-end tasks with Javascript or PHP, Drupal tasks in PHP and front-end tasks with HTML, CSS and Javascript. You can use Typescript if you prefer it.
+Do the back-end tasks with Javascript or PHP, Drupal tasks in PHP and front-end tasks with HTML, CSS and Javascript. You can use Typescript if you prefer it. Make sure that your implementations can be tested easily.
 
 Do the test yourself, don’t ask for help from outsiders. If you have questions about the test, contact Exove at coding-test-help@exove.com. We’ll be responding to your questions during office hours (Mon-Fri) between 9-17.
+
+Add a README file to your test that lists the questions you answered and also little background on why and how did you came up with the implementation. You can also add screenshots of your implementation if applicable.
 
 After you have finished, return the tasks by creating a Github repository and send us the link to it.
 
