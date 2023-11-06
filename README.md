@@ -6,7 +6,7 @@ Return the test to jobs@exove.fi
 
 This test has three sections, each having three or four questions. Your task is to choose one question per section. 
 
-We recommend you to choose your questions according to what kind of tasks you are interested in real life. In other words, your choice of questions gives us a better understanding of your competence.
+**Remember to choose the questions based on the position you are applying for.** It will also affect your overall grading. For example: answering front-end only questions when applying to a back-end position isn't ideal.
 
 You need to answer at least one question per section in order to pass the test. If you end up answering more than one question in a section, we will use the highest grade of these questions to grade the section.
 
