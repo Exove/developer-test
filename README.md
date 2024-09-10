@@ -10,6 +10,8 @@ This test has three sections, each having three or four questions. Your task is 
 
 You need to answer at least one question per section in order to pass the test. If you end up answering more than one question in a section, we will use the highest grade of these questions to grade the section.
 
+Please note that the use of **AI tools** is not strictly forbidden, as long as they can help with mock data generation or unit testing, for example; but remember that the purpose of the test is to assess your skills in order to make sure you will be able to live up to the expectations in your future work assignments. Your submission will be checked against an AI detector, as specified below.
+
 **Practicalities**
 
 Do the back-end tasks with Javascript or PHP, Drupal tasks in PHP and front-end tasks with HTML, CSS and Javascript. You can use Typescript if you prefer it. Make sure that your implementations can be tested easily.
@@ -18,7 +20,9 @@ Do the test yourself, don’t ask for help from outsiders. If you have questions
 
 Add a README file to your test that lists the questions you answered and also little background on why and how did you came up with the implementation. You can also add screenshots of your implementation if applicable.
 
-After you have finished, return the tasks by creating a Github repository and send us the link to it.
+Before returning the tasks, please run your files thru the [QuillBot AI detector](https://quillbot.com/ai-content-detector) and make sure the score is below 50%: we will make the same check and reject any submissions that exceed the threshold.
+
+After you have finished, create a public Github repository, push your work and send us the link to it.
 
 ## Section 1
 ### 1A. Write a sorting algorithm
